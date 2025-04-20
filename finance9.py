@@ -24,7 +24,12 @@ app.secret_key = os.getenv("SECRET_KEY", "default-secret-key")
 Session(app)
 
 # Initialize Gemini
-gemini_key = "AIzaSyBdnLfnPld5kPdL1PVDqvdA_j8j2YlQ-zs"
+from dotenv import load_dotenv
+import os
+
+load_dotenv()  # Make sure this runs before you access any env variables
+
+gemini_key = os.getenv("GEMINI_API_KEY")
 genai.configure(api_key=gemini_key)
 model = genai.GenerativeModel('gemini-1.5-pro-latest')
 
