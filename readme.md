@@ -16,6 +16,6 @@ This project is a voice-based AI finance assistant built for Empowering Energyâ€
 - `static/audio/` â€“ TTS-generated audio (auto-created)
 
 ## Deployment
-Run `finance9.py` with Flask:
+Run `empowerai.py` with Flask:
 ```bash
-python finance9.py
+python3 empowerai.py
