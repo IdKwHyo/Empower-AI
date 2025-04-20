@@ -20,3 +20,4 @@ This project is a voice-based AI finance assistant built for Empowering Energyâ€
 Run `finance9.py` with Flask:
 ```bash
 python finance9.py
+or python3 finance9.py
