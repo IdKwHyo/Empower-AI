@@ -1,1 +1,1 @@
-web: empowerai.py
+web: python [empowerai.py](http://_vscodecontentref_/0)
