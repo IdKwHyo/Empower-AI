@@ -23,17 +23,17 @@ app.config["SESSION_TYPE"] = "filesystem"
 app.secret_key = os.getenv("SECRET_KEY", "default-secret-key")
 Session(app)
 
-# Initialize Gemini
+
 from dotenv import load_dotenv
 import os
 
-load_dotenv()  # Make sure this runs before you access any env variables
+load_dotenv() 
 
 gemini_key = os.getenv("GEMINI_API_KEY")
 genai.configure(api_key=gemini_key)
 model = genai.GenerativeModel('gemini-1.5-pro-latest')
 
-# Get OpenAI API key from environment
+
 openai_api_key = os.getenv("OPENAI_API_KEY")
 
 class FinanceAgent:
