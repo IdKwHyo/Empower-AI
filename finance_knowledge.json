@@ -1,0 +1,50 @@
+[
+    {
+        "keywords": ["balance", "account"],
+        "content": "Account balances can be checked for savings, checking, and investment accounts. Balances reflect available funds after pending transactions."
+    },
+    {
+        "keywords": ["transfer", "send"],
+        "content": "Transfers require source account, destination account, amount, and optional description. Internal transfers are instant, while external ones may take 1–3 business days."
+    },
+    {
+        "keywords": ["transaction", "history"],
+        "content": "Transaction history typically shows date, amount, description, and balance. It may include pending, completed, and declined transactions."
+    },
+    {
+        "keywords": ["deposit", "cash", "funds"],
+        "content": "Deposits can be made via ATM, mobile check deposit, direct deposit, or in-person. Funds availability may vary based on method and account type."
+    },
+    {
+        "keywords": ["withdraw", "atm", "cash out"],
+        "content": "Cash withdrawals are available at ATMs and branches. Daily limits may apply. Some ATMs charge fees for out-of-network use."
+    },
+    {
+        "keywords": ["loan", "borrow", "credit"],
+        "content": "Loan options include personal, auto, mortgage, and student loans. Terms depend on credit score, income, and loan amount requested."
+    },
+    {
+        "keywords": ["interest", "rate", "APR"],
+        "content": "Interest rates vary by account type. Savings and checking accounts earn low interest; loans and credit cards charge interest based on APR."
+    },
+    {
+        "keywords": ["statement", "monthly", "summary"],
+        "content": "Account statements provide a monthly summary of transactions, interest, fees, and balances. They are available digitally or by mail."
+    },
+    {
+        "keywords": ["investment", "portfolio", "stocks"],
+        "content": "Investment accounts include stocks, bonds, ETFs, and mutual funds. Risk varies by asset type and market conditions."
+    },
+    {
+        "keywords": ["fraud", "security", "scam"],
+        "content": "Fraud detection alerts users of unusual activity. Always verify sources before sending money or giving personal info."
+    },
+    {
+        "keywords": ["support", "customer service", "help"],
+        "content": "Customer service is available via phone, chat, and email. Support covers account access, transactions, disputes, and technical issues."
+    },
+    {
+        "keywords": ["budget", "spending", "track"],
+        "content": "Budget tools help track spending by category, set financial goals, and analyze trends over time for better money management."
+    }
+]
