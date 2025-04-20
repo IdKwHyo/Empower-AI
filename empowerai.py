@@ -11,8 +11,8 @@ from datetime import datetime
 from bs4 import BeautifulSoup
 import requests
 import openai  
-
-
+  
+  
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
