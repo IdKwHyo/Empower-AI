@@ -1,4 +1,4 @@
-# AI Finance Accountant Agent - Empowering Energy Submission
+# AI Finance Accountant Agent - Empowering Energy Submission (MASTER BRANCH)
 
 ## Overview
 This project is a voice-based AI finance assistant built for Empowering Energy’s AI Internship Task. It uses voice commands, Gemini LLM, and Alpha Vantage API to handle financial queries.
